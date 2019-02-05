@@ -20,4 +20,6 @@ https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-g
 
 プロキシの設定
 https://qiita.com/tekityuu449/items/c58c7b9c2a3243a21aaa
-a
+
+SSLのエラーが発生した場合
+git config --global http.sslVerify false
